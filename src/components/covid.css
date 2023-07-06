@@ -1,0 +1,193 @@
+body{
+    background-color: white;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+h1{
+    transition: 0s;
+    transform: scale(1.1);
+
+}
+
+
+
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-flow: wrap;
+    
+}
+
+
+.card_1{
+     background-color:rgb(136, 201, 234);
+     width: calc(76%/3);
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+    transition: 0.3s;
+
+}
+
+.card_1:hover{
+    transform:scale(1.1);
+} 
+
+.card__name_1{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card__name_1 span {
+    font-size: 15px;
+}
+
+.card__total_1 {
+    font-size: 200%;
+    font-weight: bold;
+
+}
+.card_2{
+    background-color:rgb(38, 146, 86);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card_2:hover{
+   transform:scale(1.1);
+} 
+
+.card__name_2{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name_2 span {
+   font-size: 15px;
+}
+
+.card__total_2 {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+.card_3{
+    background-color:rgb(207, 207, 68);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card_3:hover{
+   transform:scale(1.1);
+} 
+
+.card__name_3{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name_3 span {
+   font-size: 15px;
+}
+
+.card__total_3 {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+.card_4{
+    background-color:rgb(193, 101, 30);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card_4:hover{
+   transform:scale(1.1);
+} 
+
+.card__name_4{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name_4 span {
+   font-size: 15px;
+}
+
+.card__total_4 {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+.card_5{
+    background-color:rgb(21, 155, 157);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card_5:hover{
+   transform:scale(1.1);
+} 
+
+.card__name_5{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name_5 span {
+   font-size: 15px;
+}
+
+.card__total_5 {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+.card_6{
+    background-color:rgb(176, 72, 146);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card_6:hover{
+   transform:scale(1.1);
+} 
+
+.card__name_6{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name_6 span {
+   font-size: 15px;
+}
+
+.card__total_6 {
+   font-size: 200%;
+   font-weight: bold;
+
+}
